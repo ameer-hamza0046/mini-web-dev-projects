@@ -6,3 +6,4 @@
 4. [Hidden Search Widget](https://github.com/ameer-hamza0046/hidden-search) - [Demo](https://ameer-hamza0046.github.io/hidden-search/)
 5. [Blurry Loading](https://github.com/ameer-hamza0046/blurry-loading) - [Demo](https://ameer-hamza0046.github.io/blurry-loading/)
 6. [Scroll Animation](https://github.com/ameer-hamza0046/scroll-animation) - [Demo](https://ameer-hamza0046.github.io/scroll-animation/)
+7. [Split Landing Page](https://github.com/ameer-hamza0046/split-landing-page) - [Demo](https://ameer-hamza0046.github.io/split-landing-page/)
