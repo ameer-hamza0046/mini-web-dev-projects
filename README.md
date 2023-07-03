@@ -8,5 +8,6 @@
 6. [Scroll Animation](https://github.com/ameer-hamza0046/scroll-animation) - [Demo](https://ameer-hamza0046.github.io/scroll-animation/)
 7. [Split Landing Page](https://github.com/ameer-hamza0046/split-landing-page) - [Demo](https://ameer-hamza0046.github.io/split-landing-page/)
 8. [Form Input Wave](https://github.com/ameer-hamza0046/form-input-wave) - [Demo](https://ameer-hamza0046.github.io/form-input-wave/)
-8. [Sound Board](https://github.com/ameer-hamza0046/sound-board) - [Demo](https://ameer-hamza0046.github.io/sound-board/)
-9. [Dad Jokes](https://github.com/ameer-hamza0046/dad-jokes) - [Demo](https://ameer-hamza0046.github.io/dad-jokes/)
+9. [Sound Board](https://github.com/ameer-hamza0046/sound-board) - [Demo](https://ameer-hamza0046.github.io/sound-board/)
+10. [Dad Jokes](https://github.com/ameer-hamza0046/dad-jokes) - [Demo](https://ameer-hamza0046.github.io/dad-jokes/)
+11. [Event Keycodes](https://github.com/ameer-hamza0046/event-keycodes) - [Demo](https://ameer-hamza0046.github.io/event-keycodes/)
