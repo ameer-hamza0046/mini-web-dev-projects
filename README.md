@@ -11,3 +11,5 @@
 9. [Sound Board](https://github.com/ameer-hamza0046/sound-board) - [Demo](https://ameer-hamza0046.github.io/sound-board/)
 10. [Dad Jokes](https://github.com/ameer-hamza0046/dad-jokes) - [Demo](https://ameer-hamza0046.github.io/dad-jokes/)
 11. [Event Keycodes](https://github.com/ameer-hamza0046/event-keycodes) - [Demo](https://ameer-hamza0046.github.io/event-keycodes/)
+12. [FAQ Collapse](https://github.com/ameer-hamza0046/faq-collapse) - [Demo](https://ameer-hamza0046.github.io/faq-collapse/)
+13. [Random Choice Picker](https://github.com/ameer-hamza0046/random-choice-picker) - [Demo](https://ameer-hamza0046.github.io/random-choice-picker/)
